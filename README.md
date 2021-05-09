@@ -50,3 +50,13 @@ We continually tweak and adjust this template to help give you the best experien
 ---
 
 Happy coding!
+
+<!-- 
+import os
+
+os.environ.setdefault("IP", "0.0.0.0")
+os.environ.setdefault("PORT", "5000")
+os.environ.setdefault("SECRET_KEY", "your_secret_key_here")
+os.environ.setdefault("MONGO_URI", "mongodb+srv://bxscluster:route66@bxscluster0.ghv9k.mongodb.net/task_manager?retryWrites=true&w=majority")
+os.environ.setdefault("MONGO_DBNAME", "task_manager") 
+-->
